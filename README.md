@@ -1,1 +1,1 @@
-# dashboard app
+# dashboard angular app
