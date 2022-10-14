@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'da-header',
@@ -6,7 +6,4 @@ import { Component, Input } from '@angular/core';
 })
 
 export class HeaderComponent {
-
-  @Input()
-  title: string = '';
 }
